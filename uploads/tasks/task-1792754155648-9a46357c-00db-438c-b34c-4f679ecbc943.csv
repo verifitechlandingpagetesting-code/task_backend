@@ -1,0 +1,6 @@
+id,name,department,status,due_date
+1,Daily Sales Report,Sales,To Do,2026-10-25
+2,Weekly Inventory Check,Operations,In Progress,2026-10-28
+3,Monthly Payroll Summary,Finance,Review,2026-10-30
+4,Quarterly Performance Review,HR,Completed,2026-10-15
+5,Customer Feedback Analysis,Marketing,To Do,2026-11-05
